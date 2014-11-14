@@ -1,4 +1,4 @@
-PHP class to set all existing mailboxes on the server to have an unlimited quotas.
+PHP class to set all existing mailboxes on the server to have unlimited quotas.
 
 The class uses the WHM external API to call the internal cPanel API functions.
 
